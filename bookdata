@@ -5,7 +5,7 @@
     "bookSourceType": "",
     "bookSourceUrl": "https://m.53zw.net",
     "enable": true,
-    "httpUserAgent": "",
+    "httpUserAgent": "",yyy
     "lastUpdateTime": 1580293613291,
     "loginUrl": "",
     "ruleBookAuthor": "##作者：([^<]+)##$1###",
